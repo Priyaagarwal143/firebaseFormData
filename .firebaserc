@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "formdatabase-1a88f": {
+      "hosting": {
+        "FormDatabase": [
+          "formdatabase-1a88f"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "FormDatabase",
+      "public": "dist/FormDatabase",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}
